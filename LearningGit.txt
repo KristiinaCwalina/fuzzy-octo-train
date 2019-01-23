@@ -6,3 +6,5 @@ Learn how to create a branch in Git and make a merger.
 Learn how to use a visual tool for git (proposal: SourceTree).
 Delivery 
 Send the URL to your GitHub repository for Slack mentors.
+
+Modyfied version
